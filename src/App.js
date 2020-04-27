@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import TodoInput from "./componentes/todoInput";
-import TodoItem from './todoItem';
+import TodoItem from './componentes/todoItem';
 
 
 
